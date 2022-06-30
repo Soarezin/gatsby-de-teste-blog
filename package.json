@@ -18,7 +18,7 @@
     "@mdx-js/react": "^1.6.22",
     "@popperjs/core": "^2.11.5",
     "bootstrap": "^5.0.0",
-    "gatsby": "^4.16.0",
+    "gatsby": "^4.17.2",
     "gatsby-plugin-google-fonts": "^1.0.1",
     "gatsby-plugin-mdx": "^3.16.1",
     "gatsby-plugin-sharp": "^4.16.1",
